@@ -1,0 +1,7 @@
+C:\Users\aleks\Documents\Visual Studio 2017\Projects\Мед склад\Мед склад\bin\Debug\Мед склад.exe.config
+C:\Users\aleks\Documents\Visual Studio 2017\Projects\Мед склад\Мед склад\bin\Debug\Мед склад.exe
+C:\Users\aleks\Documents\Visual Studio 2017\Projects\Мед склад\Мед склад\bin\Debug\Мед склад.pdb
+C:\Users\aleks\Documents\Visual Studio 2017\Projects\Мед склад\Мед склад\obj\Debug\Мед склад.csprojResolveAssemblyReference.cache
+C:\Users\aleks\Documents\Visual Studio 2017\Projects\Мед склад\Мед склад\obj\Debug\Мед склад.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Documents\Visual Studio 2017\Projects\Мед склад\Мед склад\obj\Debug\Мед склад.exe
+C:\Users\aleks\Documents\Visual Studio 2017\Projects\Мед склад\Мед склад\obj\Debug\Мед склад.pdb
